@@ -1,2 +1,9 @@
+tqdm
 numpy
+pandas
 matplotlib
+torch
+torchvision
+torchmetrics
+lightning
+scikit-learn
