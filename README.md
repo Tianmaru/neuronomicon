@@ -2,4 +2,5 @@
 
 # The Neuronomicon 
 
-Neural Network Stuff
+> That is not trained which cannot classify.
+> And after many epochs even loss declines.
