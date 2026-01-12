@@ -10,3 +10,14 @@ Sample, Record, Example
 - (x,y) pair
 - predictor and outcome values for a specific individual
 
+NAS
+- Neural Architecture Search
+
+Neuroevolution
+- Optimizing Artificial Neural Networks with evolutionary algorithms
+
+HyperNEAT
+- Hypercube-based NeuroEvolution of Augmenting Topologies
+
+CPPN
+- Compositional-Pattern Producing Networks
